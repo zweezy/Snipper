@@ -8,3 +8,4 @@ and I didn't see this solution anywhere in the answers.
 5. The terminal will ask for your password so it can make the desktop app.
 6. Once it's done moving the files to the proper place, you can delete the zip folder and the unzipped folder.
 7. Search "Snipper" in the launcher.
+8. You now have a snipping tool for Linux.
